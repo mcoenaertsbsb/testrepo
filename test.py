@@ -1,3 +1,3 @@
 msg = "Test message"
 
-print msg
+print(msg)
